@@ -3,6 +3,8 @@ First part of test
 BUILD 
 using gradle : gradle jar
 
+Pre build jar is in dist folder
+
 TO RUN
 in console: java -jar task1-1.0.0.jar
 
